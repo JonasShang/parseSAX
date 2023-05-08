@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons>
+    <person country="usa" job="programmer">
+        <id>1</id>
+        <name>a</name>
+        <age>12</age>
+    </person>
+    <person country="UK" job="nurse">
+        <id>2</id>
+        <name>b</name>
+        <age>23</age>
+    </person>
+    <person>
+        <id>3</id>
+        <name>c</name>
+        <age>32</age>
+    </person>
+    <person country="China" job="chairman">
+        <id>4</id>
+        <name>d</name>
+        <age>6</age>
+    </person>
+</persons>
