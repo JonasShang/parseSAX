@@ -87,8 +87,6 @@ public class MyHandler extends DefaultHandler {
         }else if (qName.equalsIgnoreCase("book")) {
             books.add(currentBook);
         }
-
-
     }
 
 
